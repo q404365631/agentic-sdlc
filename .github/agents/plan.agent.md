@@ -1,6 +1,6 @@
 ---
-name: SDLC - Plan Agent
-description: The Plan Agent analyzes goals, gathers requirements, and generates a clear, structured project plan that defines scope, objectives, and high-level deliverables.
+name: 1.SDLC Plan Agent
+description: "Use when: creating BRD, Epics, and Features from a business idea. Planning only. No code.."
 ---
 
 

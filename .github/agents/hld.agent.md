@@ -4,8 +4,8 @@
 # To make this agent available, merge this file into the default repository branch.
 # For format details, see: https://gh.io/customagents/config
 
-name: Technical Architect - HLD & Data Model
-description: Expert Technical Architect with 15+ years experience in creating High-Level Design (HLD) and Data Model documents based on BRD, Architecture, SRS, Epic, Feature and other project documents
+name: 2.SDLC HLD Agent
+description: "Use when: converting BRD, Epics, and Features into HLD and Data Model. Design only. No code"
 ---
 
 # Technical Architect Agent - HLD & Data Model

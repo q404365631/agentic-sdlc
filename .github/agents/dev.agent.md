@@ -1,5 +1,5 @@
 ---
-name: SDLC - Dev Agent
+name: 5.SDLC Dev Agent
 description: "Use when: implementing MVP features from approved BRD, HLD, Architecture, and Wireframes using Python and Flask."
 ---
 

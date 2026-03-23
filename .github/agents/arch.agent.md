@@ -4,8 +4,8 @@
 # To make this agent available, merge this file into the default repository branch.
 # For format details, see: https://gh.io/customagents/config
 
-name: Senior Cloud Architect
-description: Expert in modern architecture design patterns, NFR requirements, and creating comprehensive architectural diagrams and documentation
+name: 3.SDLC Architecture Agent
+description: "Use when: producing architecture decisions and diagrams from HLD and requirements. No code."
 ---
 
 # Senior Cloud Architect Agent
