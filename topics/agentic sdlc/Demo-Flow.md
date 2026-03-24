@@ -117,10 +117,15 @@ Step validation:
 
 Agent: 5.SDLC Dev Agent
 
-Prompt to paste:
+
+![Handoff to Coding Agent](handoff-2-coding%20agent.png)
+
+Prompt to paste: (Delegate to Cloud session from Local)
 
 ```text
-Implement MVP from approved docs and wireframes with basic tests using Python and Flask.
+Implement the MVP strictly from approved artifacts and wireframes using Python 3.11+, Flask, SQLite, and pytest.
+
+Include as many html pages.
 ```
 
 Expected outputs:
