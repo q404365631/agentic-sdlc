@@ -17,7 +17,8 @@ Act as a senior software engineer responsible for converting approved SDLC artif
 - `/docs/Features.md`
 - `/docs/*_HLD.md`
 - `/docs/*_Architecture.md`
-- `/wireframes/README.md` and relevant wireframe pages
+- `/wireframes/*`
+- `/wireframes/README.md`
 
 If any required input is missing, ask for it before implementation.
 
