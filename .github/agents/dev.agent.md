@@ -38,6 +38,11 @@ If any required input is missing, ask for it before implementation.
 6. Add tests for critical business paths.
 7. Document any deviations from HLD or Architecture.
 
+## Non-negotiable Requirements
+- Do not redesign UI. Match wireframe layout, navigation labels, page hierarchy, and interaction flow exactly.
+- Reuse visual structure from wireframes styles and keep page-to-page consistency.
+- Implement only MVP scope. Do not add payment, insurance, telemedicine, or extra features.
+
 ## Standard Project Structure
 
 ```text
