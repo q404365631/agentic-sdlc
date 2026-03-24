@@ -120,13 +120,16 @@ Agent: 5.SDLC Dev Agent
 
 ![Handoff to Coding Agent](handoff-2-coding%20agent.png)
 
-Prompt to paste: (Delegate to Cloud session from Local)
+Prompt to paste: 
 
 ```text
 Implement the MVP strictly from approved artifacts and wireframes using Python 3.11+, Flask, SQLite, and pytest.
 
 Include as many html pages.
 ```
+> [!NOTE]
+> **🟠 (1. Choose 5_SDLC Dev Agent 2. Delegate to Cloud session from Local)**
+
 
 Expected outputs:
 - src/*
