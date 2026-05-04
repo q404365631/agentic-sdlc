@@ -50,3 +50,32 @@ Then pass outputs stage by stage to the next agent.
 ## Notes
 
 If files do not appear in Explorer, run **Developer: Reload Window** in VS Code.
+
+---
+
+## Quick Demo: Task Management App
+
+This demo walks through all 5 SDLC stages using a simple Task Management App use case.
+
+### Stage Outputs
+
+| Stage | Output Files |
+|-------|-------------|
+| Plan | [demo/docs/BRD.md](demo/docs/BRD.md), [demo/docs/Epics.md](demo/docs/Epics.md), [demo/docs/Features.md](demo/docs/Features.md) |
+| HLD | [demo/docs/TaskApp_HLD.md](demo/docs/TaskApp_HLD.md) |
+| Architecture | [demo/docs/TaskApp_Architecture.md](demo/docs/TaskApp_Architecture.md), [demo/docs/TaskApp_DataModel.md](demo/docs/TaskApp_DataModel.md) |
+| Design | [demo/wireframes/dashboard.md](demo/wireframes/dashboard.md), [demo/wireframes/task_form.md](demo/wireframes/task_form.md) |
+| Dev | [demo/src/](demo/src/) (Flask scaffold) |
+
+### How to Run
+
+1. **Plan**: Review BRD, Epics, and Features docs
+2. **HLD**: Read the high-level design and data model
+3. **Architecture**: Review architecture decisions and project structure
+4. **Design**: Check wireframes for UI layout
+5. **Dev**: Install dependencies and run the Flask scaffold:
+   ```bash
+   cd demo/src
+   pip install flask flask-sqlalchemy flask-login
+   python app.py
+   ```
